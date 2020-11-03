@@ -51,13 +51,13 @@ choose your animations number.
 </p>
 
 ## Step 6
-Choose the Spine event and the Fmod event you want to synchronize.
+ - Choose the Spine event and the Fmod event you want to synchronize.
 
 <p align="left">
 <img width="600px" src="https://i.ibb.co/F7vc0dn/inspector-events.png">
 </p>
 
-Select debug log to print your event name in the console.
+ - Select debug log to print your event name in the console.
 
 <p align="left">
 <img width="600px" src="https://i.ibb.co/QbKJmZk/debuglog.png">
