@@ -36,14 +36,14 @@ Spine2FMOD allows you to synchronize Spine Events with FMOD Events. <br>
 
 ## Step 4
 
- - Make sure to have events in your Spine animation export in unity
+ - Make sure to have events in your Spine animation export in Unity
 
 <p align="left">
 <img width="600px" src="https://i.ibb.co/B3YRpxW/unity-animation-preview.png">
 </p>
 
 ## Step 5
- - Add the Spine2FMOD script as component to your spine game object and use size to
+ - Add the Spine2FMOD script as component to your Spine game object and use size to
 choose your animations number.
 
 <p align="left">
