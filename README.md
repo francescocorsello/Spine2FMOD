@@ -78,7 +78,7 @@ choose your animations number.
 ## Social
 
 - [Linkedin](https://www.linkedin.com/in/francescocorsello/)
-- [Unity Connect](https://connect.unity.com/u/francesco-corsello)
+- [Unity Asset Store](https://assetstore.unity.com/publishers/50431)
 - [Youtube](https://www.youtube.com/channel/UCr8On74pIdwY67xFR4dEI7w/featured?view_as=subscriber)
 - [Instagram](https://www.instagram.com/francescorsell0/)
 - [![Twitter Follow](https://img.shields.io/twitter/follow/francescorsell0.svg?style=social)](https://twitter.com/francescorsell0)  
